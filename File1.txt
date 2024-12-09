@@ -3,3 +3,4 @@ commit test
 56789
 000.
 “Add line”
+new branch line
